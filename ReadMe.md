@@ -1,4 +1,4 @@
-# Be The Hero - Backend - NLW
+# Be The Hero - Backend
 
 ## Linguagens e Frameworks
 <table style="width:100%">
