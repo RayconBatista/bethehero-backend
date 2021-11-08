@@ -61,6 +61,3 @@ $ npm run start
 
 ## Deploy
 * [x] - Deploy da aplicação no heroku
-
-
-<img src="https://heroku-badge.herokuapp.com/?app=betheheroappbackend">
