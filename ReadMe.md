@@ -1,4 +1,4 @@
-# Be The Hero - Backend
+# Be The Hero - Backend - NLW
 
 ## Linguagens e Frameworks
 <table style="width:100%">
@@ -32,7 +32,8 @@
     </tbody>
 </table>
 
-## 🎲 Rodando o Back End (servidor)
+
+## 🎲 Para rodar a aplicação
 ```bash
 # Clone este repositório
 $ git clone <https://github.com/R4YC0NLima/bethehero-backend>
@@ -49,7 +50,6 @@ $ npm run start
 # O servidor iniciará na porta:3333 - acesse <http://localhost:3333>
 ```
 
-
 ## Regra do Ongs
 * [x] - Registro de Ongs;
 * [x] - Listar ongs;
@@ -62,6 +62,5 @@ $ npm run start
 ## Deploy
 * [x] - Deploy da aplicação no heroku
 
-# Para rodar a aplicação
 
 <img src="https://heroku-badge.herokuapp.com/?app=betheheroappbackend">
